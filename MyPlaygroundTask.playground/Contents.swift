@@ -125,4 +125,3 @@ func isLeapYear(_ year: Int) -> Bool {
     isLeapYear(2500) // should be false
     isLeapYear(2600) // should be false
 }
-
