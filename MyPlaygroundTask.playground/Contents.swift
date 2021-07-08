@@ -18,6 +18,10 @@ summ(a: 1000, b: 2000) == 3000
 // Task 2
 // Complete the function to summarise three numbers
 func summ(a: Int, b: Int, c: Int) -> Int {
+    let a = 1
+    let b = -3000
+    
+    
     return Int(a + b + c)
 }
 
